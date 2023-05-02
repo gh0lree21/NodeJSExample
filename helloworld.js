@@ -1,5 +1,5 @@
 
 
-const name = "Grant";
+const myName = "Grant";
 
-console.log("Hello " + name)
+console.log("Hello " + myName)
